@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9472
     wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29463#The-Foreign-Tour-of-Messrs.-Brown-Jones-and-RobinsonGermany-Switzerland--amp--Italy.
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
 identifiers:
